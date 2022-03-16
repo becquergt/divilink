@@ -8,3 +8,7 @@ body{
     display: flex;
     place-content: center;
 }
+.titulo h1{
+    color: aliceblue;
+    font-size: medium;
+    }
